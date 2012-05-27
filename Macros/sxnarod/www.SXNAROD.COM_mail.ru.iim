@@ -1,0 +1,22 @@
+﻿VERSION BUILD=6650406 RECORDER=FX
+CLEAR
+SET !DATASOURCE milo_sexnarod.csv
+SET !DATASOURCE_COLUMNS 3
+SET !DATASOURCE_LINE {{!LOOP}}
+TAB T=1
+URL GOTO=http://www.sxnarod.com/
+TAG POS=1 TYPE=IMG ATTR=SRC:http://www.sxnarod.com/image18/drug2.gif
+FRAME F=3
+TAG POS=1 TYPE=A ATTR=HREF:http://connect.mail.ru/connect?app_id=479721
+TAB T=2
+FRAME F=0
+TAG POS=1 TYPE=INPUT:TEXT FORM=ACTION:http://win.mail.ru/cgi-bin/auth ATTR=NAME:Login CONTENT={{!COL1}}
+TAG POS=1 TYPE=SELECT FORM=ACTION:http://win.mail.ru/cgi-bin/auth ATTR=NAME:Domain CONTENT=%bk.ru
+SET !ENCRYPTION NO
+TAG POS=1 TYPE=INPUT:PASSWORD FORM=ACTION:http://win.mail.ru/cgi-bin/auth ATTR=NAME:Password CONTENT={{!COL3}}
+TAG POS=1 TYPE=BUTTON ATTR=TXT:Установить<SP>связь
+TAB T=2
+TAB CLOSE
+TAB T=1
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:create_nick ATTR=NAME:mailru_nick CONTENT={{!COL4}}
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:create_nick ATTR=NAME:submit&&VALUE:Создать

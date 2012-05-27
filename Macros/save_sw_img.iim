@@ -1,0 +1,7 @@
+﻿VERSION BUILD=6650406 RECORDER=FX
+TAB T=1
+'URL GOTO=http://mysw.info/node/90870
+ONDOWNLOAD FOLDER=* FILE=*
+'Download the picture by either of the following:
+'TAG POS=1 TYPE=IMG ATTR=HREF:http://*.jpg CONTENT=EVENT:SAVEITEM
+TAG POS=1 TYPE=IMG ATTR=HREF:http://mysw.info/files/imagecache/*.jpg CONTENT=EVENT:SAVEPICTUREAS

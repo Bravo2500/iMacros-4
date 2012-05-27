@@ -1,0 +1,46 @@
+﻿VERSION BUILD=6650406 RECORDER=FX
+SET !ERRORIGNORE YES
+SET !REPLAYSPEED SLOW 
+
+TAB T=1
+URL GOTO=http://seven-super.com/
+TAG POS=1 TYPE=INPUT:TEXT FORM=NAME:login ATTR=NAME:login CONTENT=maxya123
+SET !ENCRYPTION NO
+TAG POS=1 TYPE=INPUT:PASSWORD FORM=NAME:login ATTR=NAME:pass CONTENT=ltymub123
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=NAME:login ATTR=NAME:B1&&VALUE:Войти
+TAG POS=1 TYPE=A ATTR=TXT:$<SP>Письма<SP>с<SP>оплатой
+TAG POS=1 TYPE=A ATTR=TXT:1$<SP>за<SP>клик!<SP>10$<SP>за<SP>регистрацию!<SP>БЕЗ<SP>ВЛОЖЕНИЙ!!!
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:http://seven-super.com/cgi-bin/akk/frame.fcgi ATTR=NAME:B2&&VALUE:Просмотреть<SP>и<SP>заработать
+TAB T=2
+TAB T=2
+TAB CLOSE
+TAB T=1
+TAG POS=1 TYPE=A ATTR=TXT:$<SP>Письма<SP>с<SP>оплатой
+TAG POS=1 TYPE=A ATTR=TXT:Машеька
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:http://seven-super.com/cgi-bin/akk/frame.fcgi ATTR=NAME:B2&&VALUE:Просмотреть<SP>и<SP>заработать
+TAB T=2
+TAB T=2
+TAB CLOSE
+TAB T=1
+TAG POS=1 TYPE=A ATTR=TXT:$<SP>Письма<SP>с<SP>оплатой
+TAG POS=1 TYPE=A ATTR=TXT:Простые<SP>способы<SP>заработка<SP>в<SP>сети<SP>интернет.
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:http://seven-super.com/cgi-bin/akk/frame.fcgi ATTR=NAME:B2&&VALUE:Просмотреть<SP>и<SP>заработать
+TAB T=2
+TAB T=2
+TAB CLOSE
+TAB T=1
+TAG POS=1 TYPE=A ATTR=TXT:$<SP>Письма<SP>с<SP>оплатой
+CLICK X=509 Y=413
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:http://seven-super.com/cgi-bin/akk/frame.fcgi ATTR=NAME:B2&&VALUE:Просмотреть<SP>и<SP>заработать
+TAB T=2
+TAB T=2
+TAB CLOSE
+TAB T=1
+TAG POS=1 TYPE=A ATTR=TXT:$<SP>Письма<SP>с<SP>оплатой
+TAG POS=1 TYPE=A ATTR=HREF:javascript:<SP>fn_go_url(16926);&&CLASS:b2&&TXT:Проголосуйте<SP>за<SP>нашего<SP>малыша)
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:http://seven-super.com/cgi-bin/akk/frame.fcgi ATTR=NAME:B2&&VALUE:Просмотреть<SP>и<SP>заработать
+TAB T=2
+TAB T=2
+TAB CLOSE
+TAB T=1
+TAG POS=1 TYPE=A ATTR=TXT:$<SP>Письма<SP>с<SP>оплатой

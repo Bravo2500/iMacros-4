@@ -1,0 +1,30 @@
+﻿VERSION BUILD=7000928 RECORDER=FX
+SET !ERRORIGNORE YES
+SET !REPLAYSPEED SLOW 
+TAB T=1
+URL GOTO=http://my.mail.ru/mail/pthrbyf/
+TAG POS=1 TYPE=A ATTR=TXT:Нравится
+TAG POS=1 TYPE=A ATTR=TXT:Нравится
+TAG POS=1 TYPE=A ATTR=TXT:Нравится
+TAG POS=1 TYPE=A ATTR=TXT:Нравится
+TAG POS=1 TYPE=A ATTR=TXT:Нравится
+TAG POS=1 TYPE=A ATTR=TXT:Нравится
+TAG POS=1 TYPE=A ATTR=TXT:Нравится
+TAG POS=1 TYPE=A ATTR=TXT:Нравится
+TAG POS=1 TYPE=A ATTR=TXT:Нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится
+TAG POS=1 TYPE=A ATTR=TXT:Тоже<SP>нравится

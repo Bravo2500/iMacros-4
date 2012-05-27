@@ -1,0 +1,118 @@
+﻿SET !ERRORIGNORE NO
+TAG POS=1 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=1 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=2 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=2 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=3 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=3 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=4 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=4 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=5 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=5 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=6 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=6 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=7 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=7 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=8 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=8 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=9 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=9 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=10 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=10 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=11 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=11 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=12 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=12 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=13 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=13 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=14 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=14 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=15 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=15 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=16 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=16 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=17 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=17 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=18 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=18 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=19 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=19 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=20 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=20 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=21 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=21 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=22 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=22 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=23 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=23 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=24 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=24 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=25 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=25 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=26 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=26 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=27 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=27 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=28 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=28 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=29 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=29 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=30 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=30 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=31 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=31 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=32 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=32 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=33 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=33 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=34 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=34 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=35 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=35 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=36 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=36 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=37 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=37 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=38 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=38 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv
+TAG POS=39 TYPE=DIV ATTR=ID:dsq-comment-message-*
+TAG POS=39 TYPE=DIV ATTR=ID:dsq-comment-message-* EXTRACT=TXT
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=comments.csv

@@ -1,0 +1,5 @@
+﻿VERSION BUILD=7000908 RECORDER=FX
+TAB T=1
+URL GOTO=http://my.mail.ru/my/friends_requests
+TAG POS=1 TYPE=INPUT:SUBMIT FORM=ACTION:/mail/pthrbyf/addfriend ATTR=VALUE:Дружить
+WAIT SECONDS=60
